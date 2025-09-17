@@ -1,0 +1,32 @@
+# web framwork
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Langchain $ ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-groq
+
+# vectoreStore
+pinecone
+
+# embedding
+langchain-google-genai
+
+# pdf parsing 
+PyPDF
+
+# env variable
+python-dotenv
+
+# typing 
+pydantic
+requests
+tqdm
+
+# logging
+loguru
+
+
