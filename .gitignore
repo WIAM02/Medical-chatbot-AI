@@ -8,5 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-server/.venv
+# server/.venv
 test.py
