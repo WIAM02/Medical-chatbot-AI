@@ -16,7 +16,7 @@ def setup_logger(name="MedicalAssistant"):
   return logger
 
 logger = setup_logger()
-logger.info("Rag process started")
-logger.debug("Debugging")
-logger.error("Failed to load")
-logger.critical("Critical message")
+# logger.info("Rag process started")
+# logger.debug("Debugging")
+# logger.error("Failed to load")
+# logger.critical("Critical message")
